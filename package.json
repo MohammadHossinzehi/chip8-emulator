@@ -1,0 +1,14 @@
+{
+  "name": "chip8-emulator",
+  "version": "1.0.0",
+  "description": "A from scratch CHIP-8 virtual machine, disassembler, and browser front end.",
+  "type": "module",
+  "main": "src/chip8.js",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
